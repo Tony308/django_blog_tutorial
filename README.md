@@ -1,0 +1,1 @@
+Django blog tutorial following [Corey Schafer](https://www.youtube.com/watch?v=qDwdMDQ8oX4)
